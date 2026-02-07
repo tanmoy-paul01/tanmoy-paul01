@@ -4,7 +4,7 @@
 
 <img align="right" alt="code" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoy-paul01&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy-paul01" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1Hu2Og6AOXRXfN7W2KZVfo9fhg8FR4y_R/view" alt="tanmoy-paul01" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
